@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\windows\\stanjezaliha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\windows\\stanjezaliha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\windows\\stanjezaliha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\windows\\stanjezaliha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\windows\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\windows\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\klase\\csvimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\klase\\csvimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\windows\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\windows\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|c:\\users\\user\\source\\repos\\jaffadiskont\\jaffadiskont\\klase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\klase\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|C:\\Users\\User\\source\\repos\\JaffaDiskont\\jaffadiskont\\klase\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729B950-A2B6-4E48-A9BA-F3C3A4E300F0}|JaffaDiskont\\JaffaDiskont.csproj|solutionrelative:jaffadiskont\\klase\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSVimport.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\CSVimport.cs",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Klase\\CSVimport.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\CSVimport.cs",
+              "RelativeToolTip": "JaffaDiskont\\Klase\\CSVimport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:54:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Windows\\StanjeZaliha.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\StanjeZaliha.xaml.cs",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Windows\\StanjeZaliha.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\StanjeZaliha.xaml.cs",
+              "RelativeToolTip": "JaffaDiskont\\Windows\\StanjeZaliha.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:28:58.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StanjeZaliha.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\StanjeZaliha.xaml",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Windows\\StanjeZaliha.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\StanjeZaliha.xaml",
+              "RelativeToolTip": "JaffaDiskont\\Windows\\StanjeZaliha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T07:28:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\MainMenu.xaml.cs",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Windows\\MainMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\MainMenu.xaml.cs",
+              "RelativeToolTip": "JaffaDiskont\\Windows\\MainMenu.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:26:00.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\MainMenu.xaml",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Windows\\MainMenu.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Windows\\MainMenu.xaml",
+              "RelativeToolTip": "JaffaDiskont\\Windows\\MainMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T07:26:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\User.cs",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Klase\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\User.cs",
+              "RelativeToolTip": "JaffaDiskont\\Klase\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:27:47.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\Global.cs",
+              "RelativeDocumentMoniker": "JaffaDiskont\\Klase\\Global.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JaffaDiskont\\JaffaDiskont\\Klase\\Global.cs",
+              "RelativeToolTip": "JaffaDiskont\\Klase\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:34:03.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

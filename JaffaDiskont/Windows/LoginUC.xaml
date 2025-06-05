@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="JaffaDiskont.Windows.LoginUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Height="Auto" Width="Auto" Background="#FFE4C4"
+             Margin="-20,0,-20,0">
+    <UserControl.Resources>
+        <Style x:Key="CapsuleButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="20"
+                                BorderThickness="0"
+                                Padding="10"
+                                SnapsToDevicePixels="True">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="120"/>
+        </Style>
+    </UserControl.Resources>
+
+    <StackPanel Margin="40" Width="280">
+        <TextBox Height="35" Margin="0,10" VerticalContentAlignment="Center"
+                 Text="Korisničko ime" Foreground="Gray" TextAlignment="Left"
+                 x:Name="KorisnickoIme"
+                 GotFocus="ClearTextOnFirstFocus"
+                 LostFocus="RestoreHintText"/>
+
+        <Grid Height="35" Margin="0,10">
+            <PasswordBox x:Name="Lozinka"
+                         Background="White"
+                         Foreground="Black"
+                         VerticalContentAlignment="Center"
+                         Padding="5"
+                         GotFocus="ClearPasswordPlaceholder"
+                        LostFocus="RestorePasswordPlaceholder"
+                        PasswordChanged="PasswordBox_PasswordChanged"/>
+            <TextBlock Text="Lozinka"
+                       Foreground="Gray"
+                       VerticalAlignment="Center"
+                       Margin="10,0,0,0"
+                       IsHitTestVisible="False"
+                       x:Name="PasswordPlaceholder"/>
+        </Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,30,0,0" Width="240">
+
+            <Button Style="{StaticResource CapsuleButtonStyle}" Background="#FDBB69" Margin="-10,0,5,0" Click="Otkazi">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/res/cancelBtn.png" Height="16" Width="16" Margin="0,0,5,0"/>
+                    <TextBlock Text="Otkaži"/>
+                </StackPanel>
+            </Button>
+
+            <Button Style="{StaticResource CapsuleButtonStyle}" Background="#FDBB69" Margin="5,0,0,0" Click="UlogujSe">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/res/login.png" Height="16" Width="16" Margin="0,0,5,0"/>
+                    <TextBlock Text="Uloguj se"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>
